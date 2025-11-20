@@ -1,28 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.3",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
-			"Name": "FieldSystemPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "MeleeTrace",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/42b0bb860bcd4995b70d40f152a6e9b9"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:821c75d69b3e5f14c4101a74540883df671549e6a9f36dab074d803d3e5a2adf
+size 516
